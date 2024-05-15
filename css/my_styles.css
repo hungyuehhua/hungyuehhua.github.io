@@ -1,0 +1,47 @@
+h1{
+    
+    color: rgb(20, 2, 2);
+}
+
+h2.redred{
+    background-color: rgb(155, 135, 205);
+    color: white;
+    padding: 0px 0px 10px 50px;
+    width: 50%;
+}
+
+.testtest{
+    color: rgb(249, 254, 255);
+    background-color: rgba(133, 129, 216, 0.256);
+    text-align: left;
+    font-size: 20px !important;
+    text-transform: uppercase;
+    text-indent: 2em;
+    letter-spacing: 0.8px;
+    line-height: 40px;
+    border: 5px solid;
+    border-color:rgba(0, 0, 0, 0.025) ;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#think{
+    background-color: black;
+    color: white;
+
+}
+
+section#think h2{
+    color: white !important;
+}
+
+.resume-section{
+    background-color: rgb(233, 236, 242);
+}
+
+.bg-primary{
+    background-color: black !important;
+    background-image: url(../assets/img/boot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
